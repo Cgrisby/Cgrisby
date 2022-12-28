@@ -1,4 +1,4 @@
-### Hello my name is Cearra an IT Professional
+### Hello my name is Cearra an https://www.linkedin.com/in/cearragrisby/ IT Professional
 
 <!--
 **Cgrisby/Cgrisby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
