@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Cgrisby/Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cgrisby/osTicket-Lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/cgrisby/configure-ad)
+  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/Cgrisby/Config-Active-Directory-in-AzureVM/tree/main)
   - [Understanding DNS in Domain Controller](. )
   - [Network File Shares and Permissions](. )
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cgrisby/azure-network-protocols)
