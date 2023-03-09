@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cgrisby/osTicket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/Cgrisby/Config-Active-Directory-in-AzureVM/tree/main)
-  - [Understanding DNS in Domain Controller](. )
+  - [Understanding DNS in Domain Controller](https://github.com/Cgrisby/Understanding-DNS-in-Domain-Controller/tree/main)
   - [Network File Shares and Permissions](. )
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cgrisby/azure-network-protocols)
   
