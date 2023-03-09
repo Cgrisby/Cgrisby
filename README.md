@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/Cgrisby/Config-Active-Directory-in-AzureVM/tree/main)
   - [Understanding DNS in Domain Controller](https://github.com/Cgrisby/Understanding-DNS-in-Domain-Controller/tree/main)
   - [Network File Shares and Permissions](https://github.com/Cgrisby/Network-File-Shares-Permissions/tree/main)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cgrisby/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cgrisby/azure-network-protocols](https://github.com/Cgrisby/NSGs-Inspecting-Network-Protocols/tree/main)
   
 
 <h2>Connect with me:</h2>
